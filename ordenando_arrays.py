@@ -46,4 +46,4 @@ print(sorted(array, key = lambda array : array[2], reverse = True)) # Sorteando 
 
 #! Resultado;
 
-" [('Michel', 'B', 30), ('Isadora', 'A', 14), ('Emanuell', 'A', 15), ('Carlos', 'A', 16)] "
+" [('Michel', 'B', 30), ('Carlos', 'A', 16), ('Emanuell', 'A', 15), ('Isadora', 'A', 14)] "
